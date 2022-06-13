@@ -1,0 +1,21 @@
+body{
+background: url(./gato.gif);
+background-size: 100%;
+
+}
+h1{
+	background: black;
+	color: red;
+	font-size: 60px;
+	font-family: 'AMCAP Eternal', sans-serif;
+        box-shadow: 15px 15px 15px red;
+        border: 5px solid darkred;
+    }
+table{
+	background: black;
+	color: white;
+	font-size: 40px;
+	font-family: 'FTY SKORZHEN NCV', sans-serif;
+	        box-shadow: 15px 15px 15px skyblue;
+        border: 5px solid blue;
+}
